@@ -1,1 +1,1 @@
-Örnek bir blog sitesi.
+Örnek bir blog sitesi kodları.
